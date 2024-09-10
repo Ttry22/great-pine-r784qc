@@ -33,12 +33,7 @@
     margin-left: 300px; /* Изменение левого отступа для смещения вправо */
 
 }
-  .avatarka {
-    width: 200px;
-    height: 200px;
-    border: 1px solid black;
 
-  }
 
 @media screen and (max-width: 998px) {
 }
